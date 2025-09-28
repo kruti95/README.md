@@ -30,5 +30,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruti95&layout=compact&theme=tokyonight)
 
 ## 📫 Let’s Connect  
-🔗 [Portfolio](https://kruti95.github.io/) | [LinkedIn](https://www.linkedin.com/in/kruti-ray-60116910a/) | [GitHub](https://github.com/kruti95) | 📧 [Email](mailto:raykruti08@gmail.com)  
+🔗 [Portfolio](https://kruti95.github.io/) | [LinkedIn](https://www.linkedin.com/in/kruti-ray-60116910a/) | 📧 [Email](mailto:raykruti08@gmail.com)  
 
