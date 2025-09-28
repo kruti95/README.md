@@ -1,4 +1,5 @@
-![👋 Hi, I’m Kruti Ray](Final Design.png)
+![👋 Hi, I’m Kruti Ray](./Final%20Design.png)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kruti95&color=blue)
 
