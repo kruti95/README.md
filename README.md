@@ -26,7 +26,7 @@
 
 
 ## 📊 GitHub Stats  
-![Kruti’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kruti95&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruti95&layout=compact&theme=tokyonight)
+![Kruti’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kruti95&show_icons=true&theme=tokyonight)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kruti95&layout=compact&theme=tokyonight)
 
 ## 📫 Let’s Connect  
 🔗 [Portfolio](https://kruti95.github.io/) | [LinkedIn](https://www.linkedin.com/in/kruti-ray-60116910a/) | 📧 [Email](mailto:raykruti08@gmail.com)  
