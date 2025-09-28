@@ -1,4 +1,4 @@
-![👋 Hi, I’m Kruti Ray](https://github.com/kruti95/README.md/blob/main/Gradient%20Colorful%20Minimalist%20Coming%20%20Soon%20Banner.mp4)
+![👋 Hi, I’m Kruti Ray](Final Design.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kruti95&color=blue)
 
