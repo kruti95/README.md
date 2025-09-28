@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kruti Ray  
+![👋 Hi, I’m Kruti Ray](Gradient Colorful Minimalist Coming  Soon Banner.mp4)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kruti95&color=blue)
 
